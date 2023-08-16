@@ -1,0 +1,37 @@
+font-family: 'Great Vibes', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Marck Script', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Prata', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+
+
+
+
+</head>
+<body>
+    <h1>Portfolio</h1>
+    <h2>Portfolio</h2>
+    <h3>Portfolio</h3>
+
+    <i class="fa-brands fa-twitter fa-beat-fade fa-5x" style="color: #e8d768;"></i> <!-- size increase cheyyan fa-5x(5 times) -->
+    
+
+    <i class="fa-brands fa-apple fa-beat-fade fa-5x" style="color: #e00000;"></i>
+</body>
+</html>
+style.css
+h1{
+    font-family: 'Great Vibes', cursive;
+}
+h2{
+   font-family: 'Prata', serif;
+}
+h3{
+    font-family: 'Bangers', cursive;
+}
